@@ -1,2 +1,3 @@
-# google-homepage
-My First theodinproject.com Project
+google-homepage project 
+
+Source: http://www.theodinproject.com/web-development-101/html-css
